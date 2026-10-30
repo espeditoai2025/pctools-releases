@@ -9,7 +9,8 @@ Sito: https://pctools.it
 
 | Versione | Tipo | Requisiti |
 | --- | --- | --- |
-| [0.1.0-dev](https://github.com/espeditoai2025/pctools-releases/releases/tag/v0.1.0-dev) | Sviluppo, per il collaudo | Windows 11 a 64 bit |
+| [0.2.0-dev](https://github.com/espeditoai2025/pctools-releases/releases/tag/v0.2.0-dev) | Sviluppo, per il collaudo — **consigliata** | Windows 11 a 64 bit |
+| [0.1.0-dev](https://github.com/espeditoai2025/pctools-releases/releases/tag/v0.1.0-dev) | Sviluppo, superata (mostra un errore durante la diagnosi) | Windows 11 a 64 bit |
 
 ## Prima di installare una versione di sviluppo
 
@@ -19,7 +20,7 @@ Sito: https://pctools.it
   nelle note della versione. In PowerShell, nella cartella del file:
 
 ```powershell
-Get-FileHash .\PcTools-Setup-0.1.0-dev-win-x64.exe -Algorithm SHA256
+Get-FileHash .\PcTools-Setup-0.2.0-dev-win-x64.exe -Algorithm SHA256
 ```
 
 ## Cosa installa
